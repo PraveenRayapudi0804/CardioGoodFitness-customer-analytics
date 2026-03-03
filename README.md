@@ -2,8 +2,6 @@
 
 End-to-end customer analytics project analyzing treadmill purchase data to generate actionable business recommendations and segmentation insights.
 
----
-
 ## 📌 Project Overview
 
 This project presents an end-to-end exploratory data analysis (EDA) of customer purchase data for CardioGoodFitness, a retail company specializing in treadmill products.
@@ -11,8 +9,6 @@ This project presents an end-to-end exploratory data analysis (EDA) of customer 
 The objective is to analyze customer demographics, income levels, fitness ratings, and usage behavior to uncover purchasing patterns across different treadmill models. The insights derived from this analysis support strategic marketing, product positioning, and revenue optimization decisions.
 
 This project demonstrates the practical application of data analytics techniques in solving real-world business problems.
-
----
 
 ## 🎯 Problem Statement
 
@@ -27,11 +23,10 @@ Without structured data analysis, marketing efforts remain generalized rather th
 
 The goal of this project is to perform detailed customer segmentation analysis and generate actionable business recommendations.
 
----
 
 ## 📊 Dataset Description
 
-The dataset contains customer-level purchase data capturing demographic, financial, and behavioral attributes of treadmill buyers.
+The dataset (CardioGoodFitness.csv) contains customer-level purchase data capturing demographic, financial, and behavioral attributes of treadmill buyers.
 
 It includes information such as:
 
@@ -47,7 +42,6 @@ It includes information such as:
 
 This dataset enables analysis of customer segmentation, product preferences, and purchasing behavior patterns.
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -57,7 +51,6 @@ This dataset enables analysis of customer segmentation, product preferences, and
 - Matplotlib & Seaborn (Data Visualization)  
 - Jupyter Notebook  
 
----
 
 ## 🔎 Methodology
 
@@ -79,7 +72,6 @@ This dataset enables analysis of customer segmentation, product preferences, and
 - Fitness level impact on mileage  
 - Gender-based purchase trends  
 
----
 
 ## 📈 Key Insights
 
@@ -89,7 +81,6 @@ This dataset enables analysis of customer segmentation, product preferences, and
 - Male customers tend to use treadmills more frequently than female customers.  
 - Customers with higher income are more likely to purchase TM798.  
 
----
 
 ## 💡 Business Recommendations
 
@@ -98,7 +89,6 @@ This dataset enables analysis of customer segmentation, product preferences, and
 - Customers with higher weekly usage are more likely to purchase TM798. Subscription-based service offers can be introduced for these customers.  
 - The 25–35 age group shows higher purchasing behavior and should be targeted in promotional activities.  
 
----
 
 ## 🚀 Business Impact
 
@@ -110,11 +100,12 @@ If implemented, these recommendations can:
 - Strengthen competitive positioning  
 - Optimize inventory planning  
 
----
 
 ## 📁 Repository Structure
 ├── CardioGoodFitness.csv
+
 ├── CardioGoodFitness - Customer Treadmill Purchase Analysis.ipynb
+
 └── README.md
 
 ## How to Run the Project
